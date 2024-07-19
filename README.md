@@ -1,4 +1,4 @@
-# Tribute Page: Cristiano Ronaldo - A Role Model
+# Tribute Page: Cristiano Ronaldo 
 
 This tribute page is dedicated to Cristiano Ronaldo, celebrating his career and influence as a role model in the world of football.
 
@@ -31,7 +31,7 @@ This tribute page is built using HTML and CSS for structure and styling. It feat
 To view the tribute page:
 1. Clone this repository to your local machine.
  
- git clone https://github.com/yourusername/tribute-to-cristiano-ronaldo.git
+ git clone (https://github.com/Numan309/TributePage.git)
 
 ## Credits
 
